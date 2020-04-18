@@ -2,3 +2,4 @@ git practice
 change
 git ad
 git commit
+git status
