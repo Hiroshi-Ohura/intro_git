@@ -3,3 +3,4 @@ change
 git ad
 git commit
 git status
+git diff
